@@ -1,0 +1,33 @@
+Name: Prantit Lokre
+Clemson Email Address:plokre@clemson.edu
+
+Project no: 6
+Project due date: 04/24/2015
+
+Sprites for my project (technology, how built, source):
+1)Background:Internet, source-http://truereality.org/?attachment_id=82.
+2)Foreground: Draw, using Paint, named foreground.png.
+3)Single Sprite: Draw, using Paint, named meteor.png. Painter's algorithm was applied on this sprite to produce the depth effect.
+4)Player: Draw, using Paint, named robot.png. (Tried to make it look similar to an R2D2). It can be moved according to keys that are pressed.
+5)Spaceship:http://motor-kid.com/side-spaceship-sprite.html
+6)Player Bullet:ball-http://www.bit-101.com/blog/?p=2130
+7)Enemy Bullet:Drawn myself using Inkscape.
+
+Project description: (what it does, what it doesn't do, any specific problems, any extras that you have added)
+
+What it does:  Prantit's Animation depicts a Star-Wars theme where a robot is trying to maneuver through a meteor storm. 
+
+Any Extras that I added:  Turbo Speed along X-axis when Spacebar is pressed.
+
+Conclusion of the game will is acheived by defeating a spaceship which has an artificial intelligence to avoid the player bullets.I was planning to give the spaceship more health but then the game would just be a little too difficult. The spaceship also shoots some projectiles which must be avoided to stay alive in the game. Once the spaceship has been destroyed the game's conclusion has been reached.
+
+The Game has the following features incoporated in it:
+1)Video
+2)HUD for 3 secs
+3)Sound and music
+4)Collision Detection
+5)Explosions(Chunks of OODesign)
+6)Projectiles
+7)AI
+8)God mode on Pressing G
+9)Restart on Pressing R
